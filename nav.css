@@ -1,0 +1,8 @@
+.nav{
+    text-decoration: none;
+    color : var(--text-color);
+}
+
+.link_a{
+    margin : 25px;
+}

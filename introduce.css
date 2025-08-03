@@ -1,0 +1,32 @@
+#back_btn {
+    margin : 1rem 0.5rem;
+}
+
+.info{
+    height : 7rem;
+    width : 25rem;
+    border : 1px solid var(--shadow-color);
+    overflow: scroll;
+}
+
+.experi_project, .experi, .goal{
+    background-color: var(--shadow-color);
+    width : 25rem;
+    padding : 1pt 10pt;
+    margin : 10pt;
+    border-radius: 10px;
+}
+
+.experi_project a{
+    text-decoration: none;
+    color : var(--text-color);
+}
+
+#btn{
+    width: 0;
+    height: 0;
+    border-left : 10px solid transparent;
+    border-top: 10px solid transparent;
+    border-right: 10px solid var(--text-color);
+    border-bottom: 10px solid transparent;
+}
